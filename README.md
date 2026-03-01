@@ -5,6 +5,16 @@ This project performs end-to-end retail sales analysis on a Superstore dataset t
 
 The analysis identifies discount-driven profit loss, region-wise performance differences, and high-performing product categories, followed by an interactive dashboard for executive reporting.
 
+---
+
+## 🔗 Live Demo
+
+- 🌐 **Streamlit Web App:**  
+  👉 [View Live Dashboard](https://superstoredataanalysis-xyeg6y7vqcnw3uyxkezalr.streamlit.app/)
+
+- 📊 **Power BI Dashboard:**  
+  ![Power BI Dashboard](visuals/powerbiscreenshot.png)
+
 
 ### 🎯 Business Objectives
 
