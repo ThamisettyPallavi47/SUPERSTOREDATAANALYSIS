@@ -140,7 +140,7 @@ The interactive dashboard includes:
 
 
 
-![Power BI Dashboard](visuals/sales_by_region.png)
+![Power BI Dashboard](visuals/powerbiscreenshot.png)
 
 ---
 
